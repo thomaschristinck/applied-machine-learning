@@ -12,4 +12,4 @@ This assignment explored classification using a Gaussian Discriminant Analysis m
 
 ### Assignment 3
 
-In the final assignment, I designed a sentiment classifier for classifying Yelp (ratings /5) and IMDB reviews (thumbs up/thumbs down). Using sci-kit learn, I implemented and compared a naive Bayes model, a decision tree model, and a linear support vector machine using both binary bag of words (BBoW) and frequency bag of words (FBoW) representations of the datasets. 
+In the final assignment, I designed a sentiment classifier for classifying Yelp (ratings /5) and IMDB reviews (thumbs up/thumbs down). Using sci-kit learn, I implemented and compared a naive Bayes model, a decision tree model, and a linear SVM using both binary bag of words (BBoW) and frequency bag of words (FBoW) representations of the datasets. 
