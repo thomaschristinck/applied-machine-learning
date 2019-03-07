@@ -1,6 +1,6 @@
 # Applied Machine Learning Assignments
 
-This is a collection of Applied Machine Learning Assignments I wrote for a class at McGill taught by Sarath Chandar. The assignments were supposed to be submitted in a jupyter notebook format.
+This is a collection of Applied Machine Learning Assignments I wrote for a class at McGill taught by Sarath Chandar (COMP 551). The assignments were supposed to be submitted in a jupyter notebook format.
 
 ### Assignment 1
 
